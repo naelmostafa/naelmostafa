@@ -17,11 +17,13 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently looking for Internship Opportunites
+- 🔭 I’m currently looking for **Internship Opportunites**
 
-- 👯 I’m looking to collaborate on Open Source Projects
+- 👯 I’m looking to collaborate on **Open Source Projects**
   
-- 💬 Talk to me about Freelancing Opportunites, Open Source
+- 💬 Talk to me about **Freelancing Opportunites, Open Source**
+
+- 📫 How to reach me: **nael.nm.mansour@gmail.com**
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <p align="left">
