@@ -2,12 +2,6 @@
 
 <h3 align='center'> Passionate Software Engineer 😄 </div>
 
-<div align='left'>
-  
-  ![visitors](https://badges.pufler.dev/visits/naelmostafa/naelmostafa)
-  
-</div>
-
 <h2> About Me</h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
@@ -64,6 +58,13 @@
 
 
 <!--
+
+<div align='left'>
+  
+  ![visitors](https://badges.pufler.dev/visits/naelmostafa/naelmostafa)
+  
+</div>
+
 **naelmostafa/naelmostafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
