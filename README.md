@@ -13,7 +13,7 @@
   
 - 💬 Talk to me about **Freelancing Opportunites, Open Source**
 
-- 📫 How to reach me: **nael.nm.mansour@gmail.com**
+- 📫 How to reach me: 
 
 <h2> Skills 🖥️ </h2>
 <p align="left">
