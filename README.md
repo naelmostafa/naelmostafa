@@ -13,7 +13,7 @@
   
 - 💬 Talk to me about **Freelancing Opportunites, Open Source**
 
-- 📫 How to reach me: 
+- 📫 How to reach me: <a href = 'https://www.linkedin.com/in/nael-mansour'> linkedin </a>
 
 <h2> Skills 🖥️ </h2>
 <p align="left">
@@ -47,7 +47,7 @@
 
 
 <h2> Connect with me 🤝 </h2>
-<a href = 'https://www.linkedin.com/in/nael-mansour-5aa3aa226'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<a href = 'https://www.linkedin.com/in/nael-mansour'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.github.com/naelmostafa'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
 
