@@ -7,8 +7,6 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently looking for **Internship Opportunites**
-
 - 👯 I’m looking to collaborate on **Open Source Projects**
   
 - 💬 Talk to me about **Freelancing Opportunites, Open Source**
